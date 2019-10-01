@@ -1,0 +1,66 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+.header {
+    height: 100%;
+    background-color: darkgrey;
+}
+
+.part-1 {
+    width: 70%;
+    height: 100%;
+    background-image: url(../images/img1.jpg);
+    float: left;
+    background-size: 100%;
+    background-position: center;
+}
+
+.part-2 {
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+
+.content {
+    height: 100%;
+    background-color: darkcyan;
+}
+
+.part-4 {
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+.part-3 {
+    width: 70%;
+    height: 100%;
+    background-image: url(../images/img2.jpg);
+    float: left;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer {
+    height: 100%;
+    background-color: darksalmon;
+}
+
+.part-5 {
+    width: 70%;
+    height: 100%;
+    background-image: url(../images/img3.jpg);
+    float: left;
+    background-size: cover;
+    background-position: center;
+}
+
+.part-6 {
+    width: 30%;
+    height: 100%;
+    float: left;
+}
